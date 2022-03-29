@@ -1,0 +1,12 @@
+* UAAM Install networking utilities
+
+fish shell function to install the networking tool that I use. For use in an Arch based system.
+
+Packages to install:
+
+- gping
+- mtr
+- prettyping
+- traceroute
+- nmap
+- nss
