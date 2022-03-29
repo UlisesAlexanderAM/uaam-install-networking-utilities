@@ -10,3 +10,4 @@ Packages to install:
 - traceroute
 - nmap
 - nss
+- dog
